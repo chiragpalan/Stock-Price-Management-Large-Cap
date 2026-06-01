@@ -1,13 +1,13 @@
 # Stock-Price-Management---Large-Cap
 
-Last updated: 2026-06-01 05:09:21 IST
+Last updated: 2026-06-01 07:32:05 IST
 
 ## RELIANCE_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
-  <tr><td>2026-05-29 12:10:00</td><td>1336.5999755859375</td><td>0</td></tr>
-  <tr><td>2026-05-29 12:09:00</td><td>1336.800048828125</td><td>20361</td></tr>
+  <tr><td>2026-05-29 15:29:00</td><td>1321.9000244140625</td><td>299580</td></tr>
+  <tr><td>2026-05-29 15:28:00</td><td>1318.0999755859375</td><td>533303</td></tr>
 </table>
 
 ## HDFCBANK_NS
