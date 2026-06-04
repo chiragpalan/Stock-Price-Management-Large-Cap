@@ -1,6 +1,6 @@
 # Stock-Price-Management---Large-Cap
 
-Last updated: 2026-06-03 15:46:04 IST
+Last updated: 2026-06-04 05:44:37 IST
 
 ## RELIANCE_NS
 
@@ -54,8 +54,8 @@ Last updated: 2026-06-03 15:46:04 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-03 15:29:00</td><td>2090.60009765625</td><td>5485</td></tr>
   <tr><td>2026-06-03 15:28:00</td><td>2085.0</td><td>22846</td></tr>
-  <tr><td>2026-06-03 15:27:00</td><td>2084.800048828125</td><td>15074</td></tr>
 </table>
 
 ## SBIN_NS
@@ -70,24 +70,24 @@ Last updated: 2026-06-03 15:46:04 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-03 15:29:00</td><td>1824.0999755859375</td><td>13241</td></tr>
   <tr><td>2026-06-03 15:28:00</td><td>1820.9000244140625</td><td>28985</td></tr>
-  <tr><td>2026-06-03 15:27:00</td><td>1821.0</td><td>22165</td></tr>
 </table>
 
 ## KOTAKBANK_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-03 15:29:00</td><td>381.0</td><td>27092</td></tr>
   <tr><td>2026-06-03 15:28:00</td><td>381.45001220703125</td><td>69345</td></tr>
-  <tr><td>2026-06-03 15:27:00</td><td>381.75</td><td>174822</td></tr>
 </table>
 
 ## LT_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-03 15:29:00</td><td>3953.199951171875</td><td>4161</td></tr>
   <tr><td>2026-06-03 15:28:00</td><td>3946.89990234375</td><td>7803</td></tr>
-  <tr><td>2026-06-03 15:27:00</td><td>3945.0</td><td>4778</td></tr>
 </table>
 
 ## AXISBANK_NS
@@ -118,16 +118,16 @@ Last updated: 2026-06-03 15:46:04 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-03 15:29:00</td><td>13044.0</td><td>1584</td></tr>
   <tr><td>2026-06-03 15:28:00</td><td>13032.0</td><td>2062</td></tr>
-  <tr><td>2026-06-03 15:27:00</td><td>13022.0</td><td>4807</td></tr>
 </table>
 
 ## SUNPHARMA_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-03 15:29:00</td><td>1788.5</td><td>3178</td></tr>
   <tr><td>2026-06-03 15:28:00</td><td>1787.0999755859375</td><td>23467</td></tr>
-  <tr><td>2026-06-03 15:27:00</td><td>1792.0999755859375</td><td>13992</td></tr>
 </table>
 
 ## WIPRO_NS
