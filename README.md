@@ -1,6 +1,6 @@
 # Stock-Price-Management---Large-Cap
 
-Last updated: 2026-09-08 15:18:37 IST
+Last updated: 2026-09-09 05:57:42 IST
 
 ## RELIANCE_NS
 
@@ -38,8 +38,8 @@ Last updated: 2026-09-08 15:18:37 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-09-08 15:15:00</td><td>2255.5</td><td>184196</td></tr>
   <tr><td>2026-09-08 15:14:00</td><td>2261.89990234375</td><td>12916</td></tr>
-  <tr><td>2026-09-08 15:13:00</td><td>2261.89990234375</td><td>14206</td></tr>
 </table>
 
 ## ITC_NS
@@ -62,8 +62,8 @@ Last updated: 2026-09-08 15:18:37 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-09-08 15:15:00</td><td>1008.0</td><td>412389</td></tr>
   <tr><td>2026-09-08 15:14:00</td><td>1007.9000244140625</td><td>25359</td></tr>
-  <tr><td>2026-09-08 15:13:00</td><td>1008.7999877929688</td><td>49875</td></tr>
 </table>
 
 ## BHARTIARTL_NS
@@ -134,8 +134,8 @@ Last updated: 2026-09-08 15:18:37 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-09-08 15:15:00</td><td>171.5</td><td>495442</td></tr>
   <tr><td>2026-09-08 15:14:00</td><td>171.3699951171875</td><td>33852</td></tr>
-  <tr><td>2026-09-08 15:13:00</td><td>171.24000549316406</td><td>96245</td></tr>
 </table>
 
 ## POWERGRID_NS
