@@ -1,6 +1,6 @@
 # Stock-Price-Management---Large-Cap
 
-Last updated: 2026-09-18 15:23:07 IST
+Last updated: 2026-09-21 05:55:14 IST
 
 ## RELIANCE_NS
 
@@ -14,8 +14,8 @@ Last updated: 2026-09-18 15:23:07 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-09-18 15:15:00</td><td>731.0</td><td>7766297</td></tr>
   <tr><td>2026-09-18 15:14:00</td><td>731.0999755859375</td><td>357649</td></tr>
-  <tr><td>2026-09-18 15:13:00</td><td>730.9500122070312</td><td>227523</td></tr>
 </table>
 
 ## ICICIBANK_NS
@@ -62,8 +62,8 @@ Last updated: 2026-09-18 15:23:07 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-09-18 15:15:00</td><td>996.2000122070312</td><td>1371161</td></tr>
   <tr><td>2026-09-18 15:14:00</td><td>993.2000122070312</td><td>23615</td></tr>
-  <tr><td>2026-09-18 15:13:00</td><td>993.5999755859375</td><td>43490</td></tr>
 </table>
 
 ## BHARTIARTL_NS
