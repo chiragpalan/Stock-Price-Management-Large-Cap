@@ -1,6 +1,6 @@
 # Stock-Price-Management---Large-Cap
 
-Last updated: 2026-10-21 15:57:06 IST
+Last updated: 2026-10-22 06:20:12 IST
 
 ## RELIANCE_NS
 
@@ -30,24 +30,24 @@ Last updated: 2026-10-21 15:57:06 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-10-21 15:29:00</td><td>1168.0</td><td>18595036</td></tr>
   <tr><td>2026-10-21 15:14:00</td><td>1165.0</td><td>89795</td></tr>
-  <tr><td>2026-10-21 15:13:00</td><td>1164.9000244140625</td><td>251057</td></tr>
 </table>
 
 ## TCS_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-10-21 15:29:00</td><td>2529.0</td><td>5703350</td></tr>
   <tr><td>2026-10-21 15:15:00</td><td>2515.89990234375</td><td>377</td></tr>
-  <tr><td>2026-10-21 15:14:00</td><td>2522.0</td><td>48106</td></tr>
 </table>
 
 ## ITC_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-10-21 15:29:00</td><td>262.0</td><td>20999152</td></tr>
   <tr><td>2026-10-21 15:15:00</td><td>261.1000061035156</td><td>10</td></tr>
-  <tr><td>2026-10-21 15:14:00</td><td>261.1000061035156</td><td>128171</td></tr>
 </table>
 
 ## HINDUNILVR_NS
@@ -102,16 +102,16 @@ Last updated: 2026-10-21 15:57:06 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-10-21 15:29:00</td><td>926.0</td><td>18554465</td></tr>
   <tr><td>2026-10-21 15:15:00</td><td>924.2999877929688</td><td>360</td></tr>
-  <tr><td>2026-10-21 15:14:00</td><td>924.2000122070312</td><td>46126</td></tr>
 </table>
 
 ## ASIANPAINT_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-10-21 15:29:00</td><td>2319.39990234375</td><td>514386</td></tr>
   <tr><td>2026-10-21 15:15:00</td><td>2306.39990234375</td><td>58</td></tr>
-  <tr><td>2026-10-21 15:14:00</td><td>2315.0</td><td>5142</td></tr>
 </table>
 
 ## MARUTI_NS
@@ -126,8 +126,8 @@ Last updated: 2026-10-21 15:57:06 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-10-21 15:29:00</td><td>1745.0999755859375</td><td>2316340</td></tr>
   <tr><td>2026-10-21 15:14:00</td><td>1738.699951171875</td><td>13039</td></tr>
-  <tr><td>2026-10-21 15:13:00</td><td>1737.0</td><td>18480</td></tr>
 </table>
 
 ## WIPRO_NS
@@ -142,16 +142,16 @@ Last updated: 2026-10-21 15:57:06 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-10-21 15:29:00</td><td>252.14999389648438</td><td>11321695</td></tr>
   <tr><td>2026-10-21 15:15:00</td><td>248.64999389648438</td><td>13</td></tr>
-  <tr><td>2026-10-21 15:14:00</td><td>249.6999969482422</td><td>81627</td></tr>
 </table>
 
 ## NTPC_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-10-21 15:29:00</td><td>303.0</td><td>8835114</td></tr>
   <tr><td>2026-10-21 15:14:00</td><td>302.6000061035156</td><td>34913</td></tr>
-  <tr><td>2026-10-21 15:13:00</td><td>303.1000061035156</td><td>56151</td></tr>
 </table>
 
 ## ONGC_NS
